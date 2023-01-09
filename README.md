@@ -6,3 +6,5 @@ https://getbootstrap.com/docs/3.4/examples/starter-template/
 
 https://getbootstrap.com/docs/3.4/examples/theme/
 
+
+You can see the deployed changes at https://mholmes-avst.github.io/ascent-soccer-prototype/
